@@ -13,8 +13,8 @@
           "associatedWithSummary": false,
           "printLog": false,
           "multipleH1": false,
-          "mode": "float",
-          "showGoTop":true,
+          "mode": "",
+          "showGoTop":false,
           "float": {
               "floatIcon": "fa fa-navicon",
               "showLevelIcon": false,
